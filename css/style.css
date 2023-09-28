@@ -104,7 +104,7 @@ button {
 }
 
 :root {
-  --colorPrimary: #55e6a5;
+  --colorPrimary: #56aeff;
   --bgColor: #09101a;
   --bodyBg: #02050a;
   --colorWhite: #ffffff;
@@ -1373,7 +1373,7 @@ main {
 }
 
 .main_menu_2 .logo_2 {
-  background: #151c25;
+  background: #fff;
   padding: 50px;
 }
 
@@ -2214,7 +2214,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #55e6a594;
+  background: #56aeff94;
   transform: scale(0.8);
   opacity: 0;
   transition: all linear 0.3s;
